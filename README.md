@@ -1,3 +1,3 @@
 # SOLUTION-SNIPPETS
-Random assortment of python snippets to solve given problems
-Given problems have been agregated from various sources on the internet, or created to adress common challenges
+Random assortment of python, java problems/solutions that i find to be interesting
+
